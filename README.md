@@ -1,1 +1,1 @@
-# QuantumR-DHeatPress
+# QuantumR&DHeatPress
