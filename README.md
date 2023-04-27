@@ -1,3 +1,10 @@
+#This is a general purpose heat press machine and can be used to control machine/mechanism that requires precise temperature control with time variable actuating contact heat transfer surface
+
+Can be use to make:
+• PCB toner transfer machine
+• Fabric heat transfer machine
+• Torturing device
+
 # QuantumR&DHeatPress
 RP2040 codes are compiled in Arduino IDE - C++
 External libraries required are :
