@@ -6,7 +6,7 @@ Can be use to make:
 • Torturing device
 
 # QuantumR&DHeatPress
-RP2040 codes are compiled in Arduino IDE - C++
+RP2040 codes are compiled in Thonny @ micropython
 External libraries required are :
 1. gc9a01.py
 2. max6675.py
