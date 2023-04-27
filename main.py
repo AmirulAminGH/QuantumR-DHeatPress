@@ -36,8 +36,8 @@ tft = gc9a01.GC9A01(
         backlight=Pin(0, Pin.OUT),
         rotation=0)
 
-setTime=10.0
-setTemp=25.0
+setTime=20.0
+setTemp=110.0
 RTT=0.0
 
 button1 = Pin(16, mode=Pin.IN, pull=Pin.PULL_DOWN)
