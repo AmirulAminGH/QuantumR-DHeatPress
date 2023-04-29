@@ -13,6 +13,7 @@ External libraries required are :
 3. rotary.py #for rotary encoder
 
 Gerber file for manufacturing need at least 0.25 clearance between track to track and track to hole
+Top and bottom plane is removed to comply with embedded wireless antenna
 
 ![image](https://user-images.githubusercontent.com/87349346/234764386-c3e5e6d5-0750-490d-8240-ec40c6674c82.png)
 ![image](https://user-images.githubusercontent.com/87349346/234764393-41482470-8c22-4f10-a005-c08e377fc877.png)
